@@ -1,4 +1,4 @@
-# Enterprise Batch Pipeline with PySpark
+# PRATIKUM 2 - Enterprise Batch Pipeline with PySpark
 
 ## 📖 Project Overview
 This project implements an Enterprise-Scale Batch Data Processing Pipeline using PySpark.  
